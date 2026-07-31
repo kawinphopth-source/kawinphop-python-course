@@ -17,7 +17,7 @@ Below 18.5: Underweight
 30.0 and above: Obese
 
 """
-weight = float(input("Enter your weight:"))
+
 
 
 """
