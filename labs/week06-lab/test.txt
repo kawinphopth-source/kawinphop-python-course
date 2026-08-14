@@ -1,0 +1,86 @@
+#part2
+example1
+Calling greet_person with different names:
+Hello, Alice! Nice to meet you.
+Hello, Bob! Nice to meet you.
+Hello, Charlie! Nice to meet you.
+
+example2
+Calling introduce_person:
+Hi! My name is Diana.
+I am 25 years old.
+I live in New York.
+
+Hi! My name is Eve.
+I am 30 years old.
+I live in Los Angeles.
+
+example3
+Calculating rectangle areas:
+Rectangle with length 5 and width 3
+Area = 5 × 3 = 15
+
+Rectangle with length 10 and width 7
+Area = 10 × 7 = 70
+
+#part3
+example1
+Using functions that return values:
+5 + 3 = 8
+10 + 7 = 17
+Sum of both results: 25
+
+example2
+Circle calculations:
+Circle with radius 5:
+Area: 78.54
+Circumference: 31.42
+
+example3
+Using return values in expressions:
+multiply(4, 5) + square(3) = 20 + 9 = 29
+
+#part4
+example1
+Using default parameters:
+Hello, Mr./Ms. Smith!
+Hello, Dr. Johnson!
+Hello, Prof. Brown!
+
+example2
+Multiple default parameters:
+Profile: Alice, Age: 18, Country: Unknown
+Profile: Bob, Age: 25, Country: Unknown
+Profile: Charlie, Age: 30, Country: USA
+
+example3
+Power function with defaults:
+power(5) = 25
+power(5, 3) = 125
+power(2, 4) = 16
+
+#part5
+Scope demonstration:
+Before function call - Counter: 0
+Inside function - Global: I'm a global variable
+Inside function - Local: I'm a local variable
+Counter inside function: 1
+After function call - Counter: 1
+Outside function - Global: I'm a global variable
+
+#part6
+example1
+Grade Calculator:
+Score 95 = Grade A
+Score 87 = Grade B
+Score 73 = Grade C
+Score 68 = Grade D
+Score 45 = Grade F
+
+example2
+Password Validator:
+✗ '{pwd}': {message}
+✗ '{pwd}': {message}
+✓ '{pwd}': {message}
+✗ '{pwd}': {message}
+✗ '{pwd}': {message}
