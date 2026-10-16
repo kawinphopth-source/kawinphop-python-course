@@ -24,8 +24,13 @@ class Student:
             return "No courses enrolled yet."
 
 # Creating objects (instances)
+<<<<<<< HEAD
 student1 = Student("Alice", 20, "S001") #courses = []
 student2 = Student("Bob", 19, "S002") #courses = []
+=======
+student1 = Student("Alice", 20, "S001")
+student2 = Student("Bob", 19, "S002")
+>>>>>>> upstream/main
 
 # Using methods
 print(student1.introduce())

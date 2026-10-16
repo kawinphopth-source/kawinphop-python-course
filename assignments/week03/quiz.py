@@ -8,6 +8,7 @@ age = int(input("Enter age: "))
 # 60+: Senior
 
 # Your code here:
+<<<<<<< HEAD
 age = int(input("Enter age: "))
 if 0<=age<=12:
     print("Child")
@@ -19,6 +20,9 @@ elif age>59:
     print("Senior")
 else:
     print("Invalid")    
+=======
+
+>>>>>>> upstream/main
 
 
 # Complete this ATM simulation
@@ -38,6 +42,7 @@ if entered_pin == pin:
         
         # Complete the menu logic here
         # Your code here:
+<<<<<<< HEAD
         if choice == "1":
             print(f"{balance}")
         elif choice == "2":
@@ -52,5 +57,8 @@ if entered_pin == pin:
             break
         else:
             print("Invalid")       
+=======
+        
+>>>>>>> upstream/main
 else:
     print("Invalid PIN")

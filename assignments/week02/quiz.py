@@ -19,7 +19,10 @@ Below 18.5: Underweight
 """
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> upstream/main
 """
 Question 2: Currency Converter (20 points)
 

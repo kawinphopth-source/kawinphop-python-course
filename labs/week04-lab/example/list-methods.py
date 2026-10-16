@@ -31,7 +31,11 @@ print(f"Reversed fruits: {fruits}")        # ['orange', 'apple', 'banana', 'appl
 # Min, max, sum (for numeric lists)
 print(f"Min: {min(numbers)}")              # 1
 print(f"Max: {max(numbers)}")              # 9
+<<<<<<< HEAD
 print(f"Sum: {sum(numbers)}")              # 36
 
 # ค่าเฉลี่ยของ numbers
 average = sum(numbers)/len(numbers)
+=======
+print(f"Sum: {sum(numbers)}")              # 36
+>>>>>>> upstream/main
